@@ -159,7 +159,7 @@ I'm a technology enthusiast who loves to learn and to create, seeking to make th
     style="padding-right: 8px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
- <!-- <div style="height: 35px"></div>  
+<div style="height: 35px"></div>  
 
 <br/>
 <br/>
@@ -175,11 +175,10 @@ I'm a technology enthusiast who loves to learn and to create, seeking to make th
     src="https://github-readme-stats.vercel.app/api?username=Caueap&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caueap&theme=tokyonight&layout=compact&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caueap&theme=tokyonight&layout=compact&langs_count=10" 
   />
-
-</p> -->
+</p>
